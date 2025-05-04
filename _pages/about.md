@@ -1,16 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of AI](https://ai.njau.edu.cn/), [Nanjing Agriculture University](https://www.njau.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a third year undergraduate student from [School of AI](https://ai.njau.edu.cn/), [Nanjing Agriculture University](https://www.njau.edu.cn/). My research interest includes llm, multimodal, computer vision and machine learning.
 
-I am very fortunate to be advised by [Prof. XXX] of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX]. from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
-
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) 
+[Email](mailto:liaoxin@stu.njau.edu.cn) / [Github](https://github.com/LucaLucasX) 
